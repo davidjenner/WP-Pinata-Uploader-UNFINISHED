@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Pinata Uploader
- * Plugin URI: https://example.com/pinata-uploader
+ * Plugin URI: https://pinata.cloud
  * Description: A plugin that uploads blog posts to the Pinata API.
  * Version: 1.0
  * Author: Your Name
